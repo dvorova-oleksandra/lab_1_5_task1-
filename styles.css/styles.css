@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.hello{
+  display: flex;
+  align-items: center;
+  min-height: 650px;
+  position: relative;
+}
+
